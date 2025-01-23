@@ -175,7 +175,7 @@ margin: 10px 0px;
 .others-clubs{
     background: linear-gradient(110deg, transparent 25%, #020230 25%);
     width: 100%;
-    height: 500px;
+    /* height: 500px; */
 }
 .our-clubs-infa{
     display: flex;
@@ -190,13 +190,14 @@ margin: 10px 0px;
 }
 .our-clubs{
     width: 100%;
-    height: 500px;
+    /* height: 500px; */
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 50px 0px;
 }
 .clubs{
+    margin: 15px;
     width: 290px;
     height: 290px;
     background-color: #020230;
